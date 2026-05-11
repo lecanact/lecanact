@@ -8,4 +8,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lecanact&layout=compact&theme=tokyonight)
 </p>
 
-[![Spook](https://cdn.spook.bio/favicon.ico)](https://spook.bio/signup)
+[![Spook](https://cdn.spook.bio/favicon.ico)](https://spook.bio)
